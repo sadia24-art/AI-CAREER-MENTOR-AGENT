@@ -7,10 +7,6 @@ A multi-agent AI system that guides students through career exploration using sp
 Guide students through career exploration using multi-agent support:
 - **Recommends career paths** based on interests
 - **Uses Tool**: `get_career_roadmap()` to show skills needed for a chosen field
-- **Hands off between agents**:
-  - **CareerAgent** (suggests fields)
-  - **SkillAgent** (shows skill-building plans)
-  - **JobAgent** (shares real-world job roles)
 
 ## Features
 
@@ -75,4 +71,5 @@ Guide students through career exploration using multi-agent support:
 - **Data Science**: Analytics, machine learning, statistics
 - **Medicine**: Healthcare, medical school, clinical practice
 - **Custom Fields**: General guidance for any career path
+
 
