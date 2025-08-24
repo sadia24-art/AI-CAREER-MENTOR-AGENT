@@ -1,4 +1,4 @@
-# Career Mentor Agent 🎓
+# AI Career Mentor Agent
 
 A multi-agent AI system that guides students through career exploration using specialized agents and intelligent handoffs.
 
@@ -76,17 +76,3 @@ Guide students through career exploration using multi-agent support:
 - **Medicine**: Healthcare, medical school, clinical practice
 - **Custom Fields**: General guidance for any career path
 
-## Project Structure
-
-```
-Career_Mentor-Agent/
-├── main.py          # Main application with agent definitions
-├── pyproject.toml   # Dependencies and project config
-├── chainlit.md      # Welcome screen content
-├── README.md        # This file
-└── .env             # Environment variables (create this)
-```
-
----
-
-Developer by ❤️ , [CodeWithAhtii](https://github.com/ahtishamnadeem)
